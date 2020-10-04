@@ -25,8 +25,8 @@
         "General.Sort.Ascending" : "Ascendente",
         "General.Sort.Descending" : "Discendente",
 		
-		"Interaction.Destroy" : "Distriuggi",
-        "Interaction.Duplicate" : "Dupplica",
+		"Interaction.Destroy" : "Distruggi",
+        "Interaction.Duplicate" : "Duplica",
         "Interaction.Undo" : "Annulla",
         "Interaction.Redo" : "Ripristina",
         "Interaction.EquipTool" : "Equip",
