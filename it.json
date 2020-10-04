@@ -39,6 +39,12 @@
         "Interaction.Locomotion" : "Locomozione",
         "Interaction.Locomotion.None" : "Nessuna",
 		
+		"Dash.Exit.Header" : "Esci da Neos",
+        "Dash.Exit.ExitAndSave" : "Esci e salva Home",
+        "Dash.Exit.ExitAndDiscard" : "Esci senza salvare casa",
+        "Dash.Exit.ThankYou" : "Grazier per aver usato Neos!",
+        "Dash.Exit.SubmittedBy" : "Presentato da: {name}",
+		
     
         "Dummy" : "Dummy"
        }
