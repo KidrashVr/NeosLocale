@@ -59,7 +59,17 @@
         "World.Error.FailedConnectToRelay" : "Fallito il collegamento al relay",
         "World.Error.NoPort" : "Nessuna porta specificata",
         "World.Error.IncompatibleVersion" : "Versione di Neos incompatibile",
-        "World.Error.Unknown" : "Errore sconosciuto",		
+        "World.Error.Unknown" : "Errore sconosciuto",
+
+        "Dash.Screens.Home" : "Casa",
+        "Dash.Screens.Worlds" : "Mondi",
+        "Dash.Screens.Contacts" : "Contatti",
+        "Dash.Screens.Inventory" : "Inventario",
+        "Dash.Screens.Session" : "Sessione",
+        "Dash.Screens.FileBrowser" : "<nobr>Esplora file",
+        "Dash.Screens.Settings" : "Configurazioni",
+        "Dash.Screens.Exit" : "Uscita",
+		
     
         "Dummy" : "Dummy"
        }
