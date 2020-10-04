@@ -106,8 +106,19 @@
 
         "World.Detail.WorldInformationHeader" : "Informazioni sul mondo",
         "World.Detail.PublishDate" : "Pubblicato il",
-        "World.Detail.ModifyDate" : "Ultimo aggiornamento il",
-        "World.Detail.Visits" : "Numero isite",		
+        "World.Detail.ModifyDate" : "Aggiornato al",
+        "World.Detail.Visits" : "Numero visite",	
+
+        "CreateNew.3DModel" : "Modelli 3D",
+        "CreateNew.3DModel.Box" : "Cubo",
+        "CreateNew.3DModel.Sphere" : "Sfera",
+        "CreateNew.3DModel.Capsule" : "Capsula",
+        "CreateNew.3DModel.Cone" : "Cono",
+        "CreateNew.3DModel.Cylinder" : "Cilindro",
+        "CreateNew.3DModel.Quad" : "Quadrilatero",
+        "CreateNew.3DModel.Grid" : "Griglia",
+        "CreateNew.3DModel.Torus" : "Toroide",
+		
 		
     
         "Dummy" : "Dummy"
