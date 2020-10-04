@@ -45,6 +45,21 @@
         "Dash.Exit.ThankYou" : "Grazie per aver usato Neos!",
         "Dash.Exit.SubmittedBy" : "Presentato da: {name}",
 		
+        "World.Error.AccessDenied" : "Accesso negato",
+        "World.Error.SecurityViolation" : "Violazione di sicurezza",
+        "World.Error.OnlyRegisteredUsers" : "Solo gli utenti registrati sono abilitati ad entrare",
+        "World.Error.OnlyContacts" : "Solo i contatti dell'host sono abilitati ad entrare",
+        "World.Error.Private" : "La sessione è privata",
+        "World.Error.SessionEnded" : "La sessione è finita",
+        "World.Error.UserLimitReached" : "La sessione ha raggiunto il numero massimo di utenti",
+        "World.Error.FailedAuthentication" : "Autenticazione fallita",
+        "World.Error.FailedUserID" : "Impossibile autenticare UserID",
+        "World.Error.FailedFetchingAuthentication" : "Impossibile ottenere le informazioni di autenticazione",
+        "World.Error.JoinAlreadyRequested" : "L'iscrizione è già stata richiesta",
+        "World.Error.FailedConnectToRelay" : "Fallito il collegamento al relay",
+        "World.Error.NoPort" : "Nessuna porta specificata",
+        "World.Error.IncompatibleVersion" : "Versione di Neos incompatibile",
+        "World.Error.Unknown" : "Errore sconosciuto",		
     
         "Dummy" : "Dummy"
        }
