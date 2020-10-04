@@ -1,0 +1,30 @@
+    {
+    "localeCode" : "it",
+    "authors" : ["Kidrash"],
+    "messages" : 
+    {
+        "General.OK" : "OK",
+        "General.Cancel" : "Cancella",
+        "General.Continue" : "Continua",
+        "General.Next" : "Avanti",
+        "General.Back" : "Indietro",
+        "General.Confirm" : "Really?",
+        "General.Loading" : "Caricamento...",
+        "General.Processing" : "Elaborazione...",
+        "General.FAILED" : "FALLITO",
+        "General.Reset" : "Ripristino",
+        "General.WorldOpenConfirm" : "Conferma apertura?",
+        "General.Saved" : "Salvato!",
+        "General.Done" : "Fatto!",
+        "General.CopiedToClipboard" : "Copiato!",
+        "General.CopiedToClipboardLong" : "Copiato negli appunti!",
+        
+        "General.UI.SearchPrompt" : "Cercare...",
+        "General.UI.SearchPromptLong" : "Digita per iniziare ricerca...",
+        
+        "General.Sort.Ascending" : "Ascendente",
+        "General.Sort.Descending" : "Discendente",
+    
+        "Dummy" : "Dummy"
+       }
+}
