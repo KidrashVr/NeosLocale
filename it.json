@@ -24,6 +24,21 @@
         
         "General.Sort.Ascending" : "Ascendente",
         "General.Sort.Descending" : "Discendente",
+		
+		"Interaction.Destroy" : "Distriuggi",
+        "Interaction.Duplicate" : "Dupplica",
+        "Interaction.Undo" : "Annulla",
+        "Interaction.Redo" : "Ripristina",
+        "Interaction.EquipTool" : "Equip",
+        "Interaction.DequipTool" : "Dequip",
+        "Interaction.ScalingEnabled" : "Ridimensionamneto abilitato",
+        "Interaction.ScalingDisabled" : "Ridimensionamneto disabilitato",
+        "Interaction.ResetScale" : "Ripritina ridimensionamento",
+        "Interaction.LaserEnabled" : "Laser abilitato",
+        "Interaction.LaserDisabled" : "Laser disabilitato",
+        "Interaction.Locomotion" : "Locomozione",
+        "Interaction.Locomotion.None" : "Nessuna",
+		
     
         "Dummy" : "Dummy"
        }
