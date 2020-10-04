@@ -119,7 +119,32 @@
         "CreateNew.3DModel.Grid" : "Griglia",
         "CreateNew.3DModel.Torus" : "Toroide",
 		
+        "FullBody.Hips" : "Fianchi",
+        "FullBody.Feet" : "Piedi",
+        "FullBody.Chest" : "Petto",
+        "FullBody.Elbows" : "Gomiti",
+        "FullBody.Knees" : "Ginocchia",	
+
+        "CameraControl.OBS.Streaming.Start" : "iniziare la trasmissione",
+        "CameraControl.OBS.Streaming.Starting" : "Avvio della trasmissione...",
+        "CameraControl.OBS.Streaming.Stop" : "Chiudere la trasmissione",
+        "CameraControl.OBS.Streaming.Stopping" : "Interruzione della trasmissione",
+
+        "CameraControl.OBS.Recording.Start" : "Iniziare la registrazione",
+        "CameraControl.OBS.Recording.Starting" : "Avvio della registrazione...",
+        "CameraControl.OBS.Recording.Stop" : "Fermare la registrazione",
+        "CameraControl.OBS.Recording.Stopping" : "Interruzione della registrazione",
 		
+        "Settings.Height" : "Altezza:",
+        "Settings.Metric" : "Metrico (cm)",
+        "Settings.Imperial" : "Imperiale (ft)",		
+		
+        "Settings.Dash.Header" : "Pannello di controllo",
+        "Settings.Dash.Curvature" : "Curvatura",
+        "Settings.Dash.OpenCloseSpeed" : "velocità di apertura/chiusura",
+
+        "Settings.WindowsIntegration" : "Integrationw Windows",
+        "Settings.LinuxIntegration" : "Integratione Linux",		
     
         "Dummy" : "Dummy"
        }
