@@ -41,8 +41,8 @@
 		
 		"Dash.Exit.Header" : "Esci da Neos",
         "Dash.Exit.ExitAndSave" : "Esci e salva Home",
-        "Dash.Exit.ExitAndDiscard" : "Esci senza salvare casa",
-        "Dash.Exit.ThankYou" : "Grazier per aver usato Neos!",
+        "Dash.Exit.ExitAndDiscard" : "Esci senza salvare Home",
+        "Dash.Exit.ThankYou" : "Grazie per aver usato Neos!",
         "Dash.Exit.SubmittedBy" : "Presentato da: {name}",
 		
     
